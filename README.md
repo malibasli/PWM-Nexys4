@@ -10,14 +10,6 @@ LED'lerin parlaklığı yavaşça artıp azalarak estetik bir **"nefes alma" (br
 
 ---
 
-## 📸 Demo
-
-> **Not:** Buraya projenin çalışırken çekilmiş kısa bir GIF'ini veya videosunu ekleyebilirsiniz.
-> 
-> *Örnek: `![Proje Demosu](demo.gif)`*
-
----
-
 ## ✨ Özellikler
 
 - **Parametrik PWM Jeneratörü:** Frekansı ve saat hızı `generic` parametrelerle kolayca ayarlanabilen esnek PWM modülü.
